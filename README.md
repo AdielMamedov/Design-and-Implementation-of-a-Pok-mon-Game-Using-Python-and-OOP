@@ -6,15 +6,15 @@ The game simulates real Pokémon mechanics such as battles, trainers, evolution,
 
 The project is based on an abstract Pokemon base class and demonstrates advanced use of inheritance, polymorphism, encapsulation, and operator overloading.
 
-#Main Features
+# Main Features
 
-*Three Pokémon types: Fire, Water, and Electric
+* Three Pokémon types: Fire, Water, and Electric
 
-*Abstract Pokemon base class
+* Abstract Pokemon base class
 
-*Pokémon evolution with level-up and name changes
+* Pokémon evolution with level-up and name changes
 
-*Trainer system with:
+* Trainer system with:
 
   1.Catching mechanics
 
@@ -24,7 +24,7 @@ The project is based on an abstract Pokemon base class and demonstrates advanced
 
   4.Operator overloading (==, <, >, +)
 
-*Battle system:
+* Battle system:
 
   1.One-on-one Pokémon duels
 
@@ -32,51 +32,51 @@ The project is based on an abstract Pokemon base class and demonstrates advanced
 
   3.Automatic selection of the most effective Pokémon
 
-*Type-based damage calculation
+* Type-based damage calculation
 
-*Safe data handling using deep copy
+* Safe data handling using deep copy
 
-#Pokémon Types and Evolutions
+# Pokémon Types and Evolutions
 
-*Fire: Charmander → Charmeleon → Charizard
+* Fire: Charmander → Charmeleon → Charizard
 
-*Water: Squirtle → Wartortle → Blastoise
+* Water: Squirtle → Wartortle → Blastoise
 
-*Electric: Pikachu
+* Electric: Pikachu
 
-#Main Classes
+# Main Classes
 
-*Pokemon (Abstract Base Class)
+* Pokemon (Abstract Base Class)
 
-*Trainer
+* Trainer
 
-*Battle
+* Battle
 
-*Charmander, Charmeleon, Charizard
+* Charmander, Charmeleon, Charizard
 
-*Squirtle, Wartortle, Blastoise
+* Squirtle, Wartortle, Blastoise
 
-*Pikachu
+* Pikachu
 
-#Technologies Used
+# Technologies Used
 
-*Python
+* Python
 
-*Object-Oriented Programming (OOP)
+* Object-Oriented Programming (OOP)
 
-*Abstract Base Classes (abc)
+* Abstract Base Classes (abc)
 
-*Game Logic & Simulation
+* Game Logic & Simulation
 
-#How to Run
+# How to Run
 
   1.Clone the repository:
-git clone https://github.com/USERNAME/REPOSITORY.git
+  git clone https://github.com/USERNAME/REPOSITORY.git
 
-2.Run the main file:
-python main.py
+  2.Run the main file:
+  python main.py
 
-#Academic Purpose
+# Academic Purpose
 
 This project was developed as part of an academic assignment to demonstrate:
 
