@@ -80,16 +80,16 @@ The project is based on an abstract Pokemon base class and demonstrates advanced
 
 This project was developed as part of an academic assignment to demonstrate:
 
-  *Object-Oriented Design
+* Object-Oriented Design
 
-  *Inheritance and Polymorphism
+* Inheritance and Polymorphism
 
-  *Encapsulation
+* Encapsulation
 
-  *Abstract Classes
+* Abstract Classes
 
-  *Game Logic Implementation
+* Game Logic Implementation
 
-#Author
+# Author
 
 Developed as part of an academic Object-Oriented Programming project.
