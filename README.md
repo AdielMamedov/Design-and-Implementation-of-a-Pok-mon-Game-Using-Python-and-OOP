@@ -1,96 +1,95 @@
 # Design-and-Implementation-of-a-Pok-mon-Game-Using-Python-and-OOP
 Object-oriented Pokémon battle game in Python featuring Fire, Water, and Electric types, trainer system, evolution mechanics with level-up and name changes, intelligent battle selection, and full trainer-vs-trainer combat simulation.
 # Project Overview
-
 This project implements a complete Pokémon-inspired battle system using Python and Object-Oriented Programming (OOP).
 The game simulates real Pokémon mechanics such as battles, trainers, evolution, catching logic, and type effectiveness through a clean and modular OOP architecture.
 
 The project is based on an abstract Pokemon base class and demonstrates advanced use of inheritance, polymorphism, encapsulation, and operator overloading.
 
-Main Features
+#Main Features
 
-Three Pokémon types: Fire, Water, and Electric
+*Three Pokémon types: Fire, Water, and Electric
 
-Abstract Pokemon base class
+*Abstract Pokemon base class
 
-Pokémon evolution with level-up and name changes
+*Pokémon evolution with level-up and name changes
 
-Trainer system with:
+*Trainer system with:
 
-Catching mechanics
+  1.Catching mechanics
 
-Experience modifier
+  2.Experience modifier
 
-Pokémon collection management
+  3.Pokémon collection management
 
-Operator overloading (==, <, >, +)
+  4.Operator overloading (==, <, >, +)
 
-Battle system:
+*Battle system:
 
-One-on-one Pokémon duels
+  1.One-on-one Pokémon duels
 
-Full Trainer vs Trainer battles
+  2.Full Trainer vs Trainer battles
 
-Automatic selection of the most effective Pokémon
+  3.Automatic selection of the most effective Pokémon
 
-Type-based damage calculation
+*Type-based damage calculation
 
-Safe data handling using deep copy
+*Safe data handling using deep copy
 
-Pokémon Types and Evolutions
+#Pokémon Types and Evolutions
 
-Fire: Charmander → Charmeleon → Charizard
+*Fire: Charmander → Charmeleon → Charizard
 
-Water: Squirtle → Wartortle → Blastoise
+*Water: Squirtle → Wartortle → Blastoise
 
-Electric: Pikachu
+*Electric: Pikachu
 
-Main Classes
+#Main Classes
 
-Pokemon (Abstract Base Class)
+*Pokemon (Abstract Base Class)
 
-Trainer
+*Trainer
 
-Battle
+*Battle
 
-Charmander, Charmeleon, Charizard
+*Charmander, Charmeleon, Charizard
 
-Squirtle, Wartortle, Blastoise
+*Squirtle, Wartortle, Blastoise
 
-Pikachu
+*Pikachu
 
-Technologies Used
+#Technologies Used
 
-Python
+*Python
 
-Object-Oriented Programming (OOP)
+*Object-Oriented Programming (OOP)
 
-Abstract Base Classes (abc)
+*Abstract Base Classes (abc)
 
-Game Logic & Simulation
+*Game Logic & Simulation
 
-How to Run
+#How to Run
 
-Clone the repository:
+  1.Clone the repository:
 git clone https://github.com/USERNAME/REPOSITORY.git
 
-Run the main file:
+2.Run the main file:
 python main.py
 
-Academic Purpose
+#Academic Purpose
 
 This project was developed as part of an academic assignment to demonstrate:
 
-Object-Oriented Design
+  *Object-Oriented Design
 
-Inheritance and Polymorphism
+  *Inheritance and Polymorphism
 
-Encapsulation
+  *Encapsulation
 
-Abstract Classes
+  *Abstract Classes
 
-Game Logic Implementation
+  *Game Logic Implementation
 
-Author
+#Author
 
 Developed as part of an academic Object-Oriented Programming project.
